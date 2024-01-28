@@ -1,0 +1,182 @@
+constructor!
+num_car:10 car_capacity:200 num_node(depot + customer):101
+Num_depot: 1
+constructor!!
+
+time step: 0
+vehicle0 tour: 0 20 24 25 27 29 30 28 26 23 22 21 75 0  76.3km, visited customer:12, now_time:1350, average fill:95.0, now_load:190/200
+vehicle1 tour: 0 67 63 62 83 82 84 85 88 89 0  91.8km, visited customer:9, now_time:1350, average fill:195.0, now_load:200/200
+vehicle2 tour: 0 90 87 86 94 92 93 97 100 99 91 69 49 0  160.2km, visited customer:12, now_time:1350, average fill:295.0, now_load:200/200
+vehicle3 tour: 0 65 98 95 40 44 46 45 48 51 50 52 47 0  153.7km, visited customer:12, now_time:1350, average fill:380.0, now_load:170/200
+vehicle4 tour: 0 43 57 54 53 56 58 60 59 0  103.0km, visited customer:8, now_time:1350, average fill:480.0, now_load:200/200
+vehicle5 tour: 0 42 55 41 35 37 38 39 36 34 66 1 0  199.9km, visited customer:11, now_time:1350, average fill:565.0, now_load:170/200
+vehicle6 tour: 0 5 7 8 19 15 16 14 12 4 0  103.3km, visited customer:9, now_time:1350, average fill:655.0, now_load:180/200
+vehicle7 tour: 0 3 96 76 71 70 73 77 79 80 2 0  197.2km, visited customer:10, now_time:1341, average fill:730.0, now_load:150/200
+vehicle8 tour: 0 13 17 18 10 11 9 61 64 68 0  133.3km, visited customer:9, now_time:1350, average fill:795.0, now_load:130/200
+vehicle9 tour: 0 33 31 74 72 6 0  147.0km, visited customer:5, now_time:1350, average fill:865.0, now_load:140/200
+total visited customer:97/100
+total distance:1365.7km
+average fill:86.5%
+total cost:99242185.3đ
+total penalty cost:17300800.0đ
+
+time step: 1
+
+time step: 2
+
+time step: 3
+
+time step: 4
+
+time step: 5
+
+time step: 6
+
+time step: 7
+
+time step: 8
+
+time step: 9
+
+time step: 10
+
+time step: 11
+
+time step: 12
+
+time step: 13
+
+time step: 14
+
+time step: 15
+
+time step: 16
+
+time step: 17
+vehicle0 tour: 0 20 24 25 27 29 30 28 26 23 22 21 75 0  76.3km, visited customer:12, now_time:1350, average fill:95.0, now_load:190/200
+vehicle1 tour: 0 67 63 62 53 56 58 60 59 68 0  107.4km, visited customer:9, now_time:1350, average fill:195.0, now_load:200/200
+vehicle2 tour: 0 90 87 86 83 82 84 85 88 89 91 52 49 0  118.9km, visited customer:12, now_time:1350, average fill:290.0, now_load:190/200
+vehicle3 tour: 0 65 96 95 94 92 93 97 100 99 66 69 0  144.3km, visited customer:11, now_time:1350, average fill:390.0, now_load:200/200
+vehicle4 tour: 0 43 57 54 40 44 46 45 48 51 50 1 47 0  174.4km, visited customer:12, now_time:1350, average fill:490.0, now_load:200/200
+vehicle5 tour: 0 42 55 41 35 37 38 39 36 34 2 0  173.2km, visited customer:10, now_time:1350, average fill:580.0, now_load:180/200
+vehicle6 tour: 0 5 7 8 19 15 16 14 12 4 0  103.3km, visited customer:9, now_time:1350, average fill:670.0, now_load:180/200
+vehicle7 tour: 0 3 98 76 71 70 73 77 79 80 0  160.6km, visited customer:9, now_time:1350, average fill:735.0, now_load:130/200
+vehicle8 tour: 0 13 17 18 10 11 9 61 64 0  131.2km, visited customer:8, now_time:1350, average fill:795.0, now_load:120/200
+vehicle9 tour: 0 33 31 74 72 6 0  147.0km, visited customer:5, now_time:1350, average fill:865.0, now_load:140/200
+total visited customer:97/100
+total distance:1336.5km
+average fill:86.5%
+total cost:97492890.1đ
+total penalty cost:17300800.0đ
+
+time step: 18
+
+time step: 19
+
+time step: 20
+
+time step: 21
+
+time step: 22
+
+time step: 23
+
+time step: 24
+
+time step: 25
+
+time step: 26
+
+time step: 27
+
+time step: 28
+
+time step: 29
+
+time step: 30
+
+time step: 31
+
+time step: 32
+
+time step: 33
+
+time step: 34
+
+time step: 35
+vehicle0 tour: 0 20 32 31 35 37 38 39 36 34 50 52 49 0  110.8km, visited customer:12, now_time:1350, average fill:100.0, now_load:200/200
+vehicle1 tour: 0 67 63 62 53 56 58 60 64 68 0  111.6km, visited customer:9, now_time:1350, average fill:200.0, now_load:200/200
+vehicle2 tour: 0 90 87 86 83 82 84 85 88 89 91 21 47 0  119.8km, visited customer:12, now_time:1350, average fill:300.0, now_load:200/200
+vehicle3 tour: 0 65 81 76 71 70 73 77 79 80 66 69 75 0  165.6km, visited customer:12, now_time:1350, average fill:390.0, now_load:180/200
+vehicle4 tour: 0 43 57 54 40 44 46 45 48 51 22 1 0  141.4km, visited customer:11, now_time:1350, average fill:490.0, now_load:200/200
+vehicle5 tour: 0 42 55 41 94 92 93 97 100 99 2 0  170.6km, visited customer:10, now_time:1350, average fill:590.0, now_load:200/200
+vehicle6 tour: 0 24 25 27 19 15 16 14 12 23 0  106.3km, visited customer:9, now_time:1350, average fill:685.0, now_load:190/200
+vehicle7 tour: 0 5 7 8 10 11 9 28 26 4 0  92.7km, visited customer:9, now_time:1350, average fill:745.0, now_load:120/200
+vehicle8 tour: 0 3 98 95 74 72 61 6 59 0  224.1km, visited customer:8, now_time:1350, average fill:825.0, now_load:160/200
+vehicle9 tour: 0 13 17 18 29 30 0  88.9km, visited customer:5, now_time:1350, average fill:870.0, now_load:90/200
+total visited customer:97/100
+total distance:1331.8km
+average fill:87.0%
+total cost:97306892.4đ
+total penalty cost:17400700.0đ
+
+time step: 36
+
+time step: 37
+
+time step: 38
+
+time step: 39
+vehicle0 tour: 0 20 32 31 35 37 38 39 36 34 50 52 49 0  110.8km, visited customer:12, now_time:1350, average fill:100.0, now_load:200/200
+vehicle1 tour: 0 67 63 62 53 56 58 60 59 68 0  107.4km, visited customer:9, now_time:1350, average fill:200.0, now_load:200/200
+vehicle2 tour: 0 90 87 86 83 82 84 85 88 89 91 21 47 0  119.8km, visited customer:12, now_time:1350, average fill:300.0, now_load:200/200
+vehicle3 tour: 0 65 81 76 71 70 73 77 79 80 66 69 75 0  165.6km, visited customer:12, now_time:1350, average fill:390.0, now_load:180/200
+vehicle4 tour: 0 43 57 54 40 44 46 45 48 51 22 1 0  141.4km, visited customer:11, now_time:1350, average fill:490.0, now_load:200/200
+vehicle5 tour: 0 42 55 41 94 92 93 97 100 99 2 0  170.6km, visited customer:10, now_time:1350, average fill:590.0, now_load:200/200
+vehicle6 tour: 0 24 25 27 19 15 16 14 12 23 0  106.3km, visited customer:9, now_time:1350, average fill:685.0, now_load:190/200
+vehicle7 tour: 0 5 7 8 10 11 9 28 26 4 0  92.7km, visited customer:9, now_time:1350, average fill:745.0, now_load:120/200
+vehicle8 tour: 0 3 98 95 74 72 61 64 0  118.3km, visited customer:7, now_time:1350, average fill:815.0, now_load:140/200
+vehicle9 tour: 0 13 17 18 29 30 6 0  111.7km, visited customer:6, now_time:1350, average fill:870.0, now_load:110/200
+total visited customer:97/100
+total distance:1244.6km
+average fill:87.0%
+total cost:92074755.8đ
+total penalty cost:17400700.0đ
+
+time step: 40
+
+time step: 41
+
+time step: 42
+
+time step: 43
+
+time step: 44
+
+time step: 45
+
+time step: 46
+
+time step: 47
+
+time step: 48
+
+time step: 49
+vehicle0 tour: 0 20 33 31 35 37 38 39 36 34 50 52 0  112.0km, visited customer:11, now_time:1350, average fill:100.0, now_load:200/200
+vehicle1 tour: 0 67 63 62 83 82 84 85 88 89 0  91.8km, visited customer:9, now_time:1350, average fill:200.0, now_load:200/200
+vehicle2 tour: 0 90 87 86 94 92 93 97 100 99 91 21 0  136.1km, visited customer:11, now_time:1350, average fill:300.0, now_load:200/200
+vehicle3 tour: 0 65 81 76 71 70 73 77 79 80 66 69 49 0  156.0km, visited customer:12, now_time:1350, average fill:385.0, now_load:170/200
+vehicle4 tour: 0 43 55 54 53 56 58 60 59 68 22 0  124.8km, visited customer:10, now_time:1350, average fill:485.0, now_load:200/200
+vehicle5 tour: 0 42 57 41 40 44 46 45 48 51 2 1 47 0  171.2km, visited customer:12, now_time:1350, average fill:585.0, now_load:200/200
+vehicle6 tour: 0 24 25 27 19 15 16 14 12 23 0  106.3km, visited customer:9, now_time:1350, average fill:680.0, now_load:190/200
+vehicle7 tour: 0 5 7 8 10 11 9 28 26 4 75 0  94.6km, visited customer:10, now_time:1350, average fill:750.0, now_load:140/200
+vehicle8 tour: 0 3 98 95 74 72 61 64 0  118.3km, visited customer:7, now_time:1350, average fill:820.0, now_load:140/200
+vehicle9 tour: 0 13 17 18 29 30 6 0  111.7km, visited customer:6, now_time:1350, average fill:875.0, now_load:110/200
+total visited customer:97/100
+total distance:1222.9km
+average fill:87.5%
+total cost:90873539.8đ
+total penalty cost:17500600.0đ
+destructor!!
+destructor!
+0.1sec
