@@ -1,6 +1,6 @@
 # ecommerce
-#Running chatbot api: langverse\elasticsearch-7.10.2>elasticsearch.bat
-#Running vrp api: 
+Running chatbot api: langverse\elasticsearch-7.10.2>elasticsearch.bat sau đó chạy python app/searching/elassearch.py
+Running vrp api: 
 Đảm bảo bạn đã cài đặt CMake và phiên bản của nó trên 3.1
 
 cmake - -version
