@@ -12,7 +12,7 @@ const double Colony::alpha = 2.0;// prob_next_city
 const double Colony::beta = 5.0;// prob_next_city
 const double Colony::q = 1.0;// hệ số chất lượng (chia cho tour length)
 double Colony::threshold = 0.5;// mức lựa chọn đi đến node random hay là theo mùi
-const double Colony::decay_rate = 0.91;	 // do phan ra
+const double Colony::decay_rate = 0.90;	 // do phan ra
 double INFIN = 100000;
 
 
